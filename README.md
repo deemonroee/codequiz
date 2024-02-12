@@ -1,6 +1,9 @@
 # codequiz
 Coding Quiz with JavaScript
 
+## Website
+https://deemonroee.github.io/codequiz/
+
 ## Usage
  ![Alt text](<images/Screenshot 2024-02-11 at 11.19.09 PM.png>)
 
@@ -10,7 +13,7 @@ This project taught me how javascript and the html work together to creating a p
 
 ## Installation
 
-To make the project work I learned new variables to make functions in JavaScript work and tie with html and css. 
+To make the project work I learned new variables to make functions in JavaScript work that also keeps track of highscores during the quiz
 
 ## License 
 Please see license in Repo
